@@ -1,6 +1,3 @@
-Below is a completed version of the README.md file for your GitHub repository, including all necessary commands for setting up, running, and deploying your Discord bot using Docker.
-
-```markdown
 # Discord AI Chat Bot
 
 This repository contains the source code for a Discord bot leveraging Google's Gemini AI for generating dynamic, context-aware responses. The bot intelligently handles long responses by splitting them into multiple messages, adhering to Discord's message length restrictions.
@@ -111,6 +108,3 @@ Contributions are welcome! For significant changes, please open an issue first t
 ## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
-```
-
-Please ensure to replace `yourusername` with your actual GitHub username and the repository URL with your repository's URL. This README provides a comprehensive guide to setting up, running, and deploying the Discord bot, alongside information on contributing to the project and its license.
