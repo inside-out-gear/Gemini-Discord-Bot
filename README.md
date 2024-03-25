@@ -14,7 +14,7 @@ Before you begin, ensure you have the following:
 
 - Python 3.8 or later installed on your machine.
 - A Discord Bot Token. See [Creating a Bot Account](https://discordpy.readthedocs.io/en/stable/discord.html) for a guide on creating a bot and obtaining your token.
-- A Google API Key with access enabled for Gemini AI services.
+- A Google API Key with access enabled for Gemini AI services. ]([https://discordpy.readthedocs.io/en/stable/discord.html](https://ai.google.dev/tutorials/web_quickstart))   
 
 ## Setup Instructions
 
