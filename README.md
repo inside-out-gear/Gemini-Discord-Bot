@@ -1,4 +1,4 @@
-# Discord AI Chat Bot
+# Gemma the Discord Gemini AI Chat Bot
 
 This repository contains the source code for a Discord bot leveraging Google's Gemini AI for generating dynamic, context-aware responses. The bot intelligently handles long responses by splitting them into multiple messages, adhering to Discord's message length restrictions.
 
