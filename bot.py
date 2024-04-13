@@ -50,7 +50,7 @@ async def on_message(message):
     prompt = "\n".join(conversations[key] + [query]) if conversations[key] else query
 
     try:
-        model = genai.GenerativeModel('gemini-pro')
+        model = genai.GenerativeModel('gemini-1.5-pro-latest')
         response = model.generate_content(prompt)
         response_text = response.text.strip()
 
